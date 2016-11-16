@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tommio90/edugora-node-aws/issues"
   },
-  "homepage": "https://github.com/tommio90/edugora-node-aws#readme"
+  "homepage": "https://github.com/tommio90/edugora-node-aws#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
